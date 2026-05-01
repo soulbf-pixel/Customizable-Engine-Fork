@@ -32,3 +32,5 @@ High Priority:
 Low Priority:
  [  ] Remove unecesary hardcoded scripts that the engine doesn't use
  [  ] Fix visual bugs within the engine
+
+# THE ENGINE DOWNLOAD IS IN RELEASES!!
