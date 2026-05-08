@@ -15,9 +15,6 @@ A. Yes there will be more content in the near future
 **2. Will there be something different?**
 A. Yes im currently planning to add more stuff that makes it more unique
 
-**3. Will the source code be public?**
-A. Yes it will be publicly when the engine is fully finished
-
 High Priority:
  [  ] Make it so there can be multiple characters with its own grid on chartingEditor
  [  ] Optimize the engine more
